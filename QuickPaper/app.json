@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "QuickPaper",
+    "slug": "QuickPaper",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/no-child-labor.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/hills-5942468_640.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

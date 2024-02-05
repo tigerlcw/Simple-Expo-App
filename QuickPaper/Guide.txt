@@ -1,0 +1,5 @@
+1. expo web visualization
+npx expo install react-dom react-native-web @expo/webpack-config
+
+2. expo web view 라이브러리
+npx expo install react-native-webview
